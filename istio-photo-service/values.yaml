@@ -18,7 +18,7 @@ deployment:
       hostnames:
         - "test.nhn.wmi"
   image:
-    name: "5627e02d-kr2-registry.container.nhncloud.com/ncr/istio-photo-service"
+    name: "ac2cf1d1-kr1-registry.container.nhncloud.com/ncr/istio-photo-service"
     tag: "3"
     pullPolicy: Always
   command:
