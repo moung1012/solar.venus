@@ -19,7 +19,7 @@ deployment:
         - "test.nhn.wmi"
   image:
     name: "5627e02d-kr2-registry.container.nhncloud.com/ncr/istio-photo-service"
-    tag: "1"
+    tag: "3"
     pullPolicy: Always
   command:
     - java
